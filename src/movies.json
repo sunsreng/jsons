@@ -1,7 +1,9 @@
-{movies: [
+{
+  "movies": [
   {
     "title": "Spider Man"
   },
   { "title": "X Man" },
   { "title": "Avengers" }
-]}
+]
+}
